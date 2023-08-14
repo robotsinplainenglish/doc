@@ -14,4 +14,4 @@
 
 * [Behaviors.pdf](ref/behaviors.pdf): Sudheer's paper (2017) describing the use of behavior trees in Intera software at Rethink Robotics.
 
-* [Behavior Tree Book](ref/behavior-tree-book.pdf): Textbook on behavior trees, Colledenchaise, et.al.
+* [Behavior Tree Book](ref/behavior-tree-book.pdf): Textbook on behavior trees, Colledanchise, et.al.
